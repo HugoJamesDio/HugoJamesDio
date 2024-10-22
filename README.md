@@ -6,7 +6,7 @@ Hola! Mi nombre es Hugo.
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+Ingeniería+en+Sistemas;Siempre+aprendiendo;Responsable+;)&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+Ingeniería+en+Sistemas;Siempre+aprendiendo;Responsable+:)&center=true&width=380&height=45">
 	</a>
 </p>
 
