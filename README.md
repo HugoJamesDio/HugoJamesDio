@@ -12,7 +12,7 @@ Hola! Mi nombre es Hugo.
 
 <hr>
 
-<pre style="fontSize=20px;">
+<pre style="font-size:25px;">
 📚 <b>Estudiante</b> de ingeiería en sistemas computacionales en el Instituo Tecnológico de León.
 📝 Cursando el 9no semestre de la carrera.
 🔭 Estoy interesado en el desarrollo web (back-end y front-end).
