@@ -40,7 +40,7 @@ Hola! Mi nombre es Hugo.
 ### 🗄️ Databases
 <p>
 	<img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-X57150.svg?logo=MySQL&logoColor=black">
-	<img alt="SQLServer" src="https://img.shields.io/badge/MySQL%20-X57150.svg?logo=MySQL&logoColor=black">
+	<img alt="SQLServer" src="https://img.shields.io/badge/SQLServer%20-X57150.svg?logo=SQLServer&logoColor=black">
 </p>
 
 
