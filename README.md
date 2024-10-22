@@ -13,14 +13,7 @@ Hola! Mi nombre es Hugo.
 <hr>
 
 <pre>
-	<p style="font-size: 55px;">📚 <b>Estudiante</b> de ingeiería en sistemas computacionales en el Instituo Tecnológico de León.</p>
-	<p style="font-size:55px;"></p>
-	<p style="font-size:55px;"></p>
-	<p style="font-size:55px;"></p>
-	<p style="font-size:55px;"></p>
-	<p style="font-size:55px;"></p>
-	
-
+📚 <b>Estudiante</b> de ingeiería en sistemas computacionales en el Instituo Tecnológico de León.
 📝 Cursando el 9no semestre de la carrera.
 🔭 Estoy interesado en el desarrollo web (back-end y front-end).
 🌟 Principales lenguajes de programación: JavaScript, PHP. Así como CSS, HTML, entre otros.	
