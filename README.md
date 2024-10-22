@@ -13,7 +13,7 @@ Hola! Mi nombre es Hugo.
 <hr>
 
 <pre>
-	<p style="font-size:55px;">📚 <b>Estudiante</b> de ingeiería en sistemas computacionales en el Instituo Tecnológico de León.</p>
+	<p style="font-size: 55px;">📚 <b>Estudiante</b> de ingeiería en sistemas computacionales en el Instituo Tecnológico de León.</p>
 	<p style="font-size:55px;"></p>
 	<p style="font-size:55px;"></p>
 	<p style="font-size:55px;"></p>
