@@ -34,21 +34,17 @@ Hola! Mi nombre es Hugo.
 <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
     <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23F7DF1E.svg?logo=php&logoColor=black">
-    <img alt="Java" src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?logo=java&logoColor=black">
+    <img alt="Java" src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?logo=Java&logoColor=black">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
 	
 ### 🗄️ Databases
-
 <p>
-
+	<img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-X57150.svg?logo=MySQL&logoColor=black">
+	<img alt="SQLServer" src="https://img.shields.io/badge/MySQL%20-X57150.svg?logo=MySQL&logoColor=black">
 </p>
 
 
 </br>
-
-## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
-
-<br/>
 <br/>
 
 ------
