@@ -34,9 +34,8 @@ Hola! Mi nombre es Hugo.
 <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
     <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23F7DF1E.svg?logo=php&logoColor=black">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?logo=java&logoColor=black">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%23F7DF1E.svg?logo=css&logoColor=black">
-
+    <img alt="Java" src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?logo=java&logoColor=black">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
 	
 ### 🗄️ Databases
 
