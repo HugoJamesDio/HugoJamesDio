@@ -18,7 +18,7 @@ Hola! Mi nombre es Hugo.
 🔭 Estoy interesado en el desarrollo web (back-end y front-end).
 🌟 Principales lenguajes de programación: JavaScript, PHP. Así como CSS, HTML, entre otros.	
 🤔 Actualmente estoy buscando realizar mis residencias/prácticas profesionales.
-   Para becario u oportunidad de trabajo, mi CV: <a href="" target="_blank">MI CV</a>
+   🖇️ Para becario u oportunidad de trabajo, mi CV: <a href="" target="_blank">MI CV</a>
 </pre>
 <hr>
 
